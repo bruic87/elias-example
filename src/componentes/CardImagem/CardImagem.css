@@ -1,0 +1,10 @@
+.card-imagem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: lightgray;
+}
+
+.card-imagem div {
+    width: 20%;
+}

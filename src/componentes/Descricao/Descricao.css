@@ -1,0 +1,5 @@
+.descricao  div{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
